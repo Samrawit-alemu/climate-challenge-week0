@@ -1,6 +1,6 @@
-# Climate Challenge Week 0
-
 ## Setup
+
+# Climate Challenge Week 0
 
 ```bash
 python -m venv venv
